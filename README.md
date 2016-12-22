@@ -1,1 +1,3 @@
-# layer-hpccsystems-cluster-base
+  - 'layer:hpccsystems-platform-base'
+  - 'interface:hpccsystems-cluster'
+
